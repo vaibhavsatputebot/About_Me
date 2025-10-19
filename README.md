@@ -22,18 +22,18 @@ Here's a bit more about me:
 
 ## 🌟 About Me
 
-- 💻 I specialize in Modding, but I enjoy exploring other technologies and languages as well.
+- 💻 I specialize in App Modding, but I enjoy exploring other technologies and languages as well.
 - 🚀 I'm always eager to learn new things and take on new challenges.
 - 🎓 I believe in the power of knowledge-sharing and open source.
 
 ## 🛠️ Tech Stack
 
-- **Languages:** Marathi, Hindi, English
+- **Languages:** Smali, JavaScript, HTML, CSS, Python, etc...!!!
 - **Tools:** Mt Manager, Np Manager, Apktool M, etc...!!!
 
 ## My recent projects
 
-[![My Website](https://github-readme-stats.vercel.app/api/pin?username=vaibhavsatputebot&theme=github_dark&hide_border=true&repo=filestore)](https://vaibhavsatpute.netlify.app)
+[![My Website](https://github-readme-stats.vercel.app/api/pin?username=vaibhavsatputebot&theme=github_dark&hide_border=true&repo=filestore)](https://github.com/vaibhavsatputebot/filestore)
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=vaibhavsatputebot)](https://github.com/vaibhavsatputebot/github-readme-stats)
 
 ---
