@@ -1,3 +1,8 @@
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=26&pause=1000&color=7150F7&center=true&vCenter=true&width=435&lines=Welcome+To+My+GitHub+Profile;Exploring+The+World+Of+Code;Make+Sure+You+Leave+%E2%AD%90">
+</p>
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=26&pause=1000&color=7150F7&center=true&vCenter=true&width=435&lines=Welcome+To+My+GitHub+Profile;Exploring+The+World+Of+Code;Make+Sure+You+Leave+%E2%AD%90)](https://git.io/typing-svg)
 
 <h2 align="center">
@@ -13,7 +18,7 @@
 
 I'm just a curious soul with a passion for technology. What started as a hobby quickly became a journey of self-taught exploration – driven by necessity, fueled by fascination. While I lack formal training, I've acquired valuable skills through persistent learning and continue to deepen my expertise daily.
 
-Here's a bit more about me:
+# Here's a bit more about me:
 <p align="center">
 <img src="https://i.ibb.co/BHqMgJ9h/IMG-20250919-201351-451.jpg">
 </p>
