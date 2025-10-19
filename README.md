@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=23&pause=1000&color=7150F7&center=true&vCenter=true&width=435&lines=Welcome+To+My+GitHub+Profile;Exploring+The+World+Of+Code;Make+Sure+You+Leave+%E2%AD%90)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=26&pause=1000&color=7150F7&center=true&vCenter=true&width=435&lines=Welcome+To+My+GitHub+Profile;Exploring+The+World+Of+Code;Make+Sure+You+Leave+%E2%AD%90)](https://git.io/typing-svg)
 
 <h2 align="center">
     ──「 **Unknown 𝖡𝗈𝗍𝗌 𝖯𝗋𝗈𝖿𝗂𝗅𝖾** 」──
@@ -9,7 +9,7 @@
 
 # Hi there! I'm 未知 👋
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=I+am+VAIBHAVSATPUTE;I+am+App+Modder;I+am+Web+Developer;I+am+Ethical+Hacker;I+am+Reverse+Engineer;I+am+UI%2FUX+Designer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=F70000&center=true&vCenter=true&width=435&lines=I+am+VAIBHAVSATPUTE;I+am+App+Modder;I+am+Web+Developer;I+am+Ethical+Hacker;I+am+Reverse+Engineer;I+amUI%2FUX+Designer)](https://git.io/typing-svg)
 
 I'm just a curious soul with a passion for technology. What started as a hobby quickly became a journey of self-taught exploration – driven by necessity, fueled by fascination. While I lack formal training, I've acquired valuable skills through persistent learning and continue to deepen my expertise daily.
 
