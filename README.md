@@ -32,7 +32,7 @@ Here's a bit more about me:
 - **Tools:** Mt Manager, Np Manager, Apktool M, etc...!!!
 
 ## My recent projects
-[![File Store](https://github-readme-stats.vercel.app/api/pin?username=Codeflix-bots&theme=github_dark&hide_border=true&repo=filestore)](https://github.com/Codeflix-bots/filestore)
+[![File Store](https://github-readme-stats.vercel.app/api/pin?username=vaibhavsatputebot&theme=github_dark&hide_border=true&repo=filestore)](https://github.com/Codeflix-bots/filestore)
 [![My Website](https://github-readme-stats.vercel.app/api/pin?username=vaibhavsatputebot&theme=github_dark&hide_border=true&repo=filestore)](https://github.com/vaibhavsatputebot/filestore)
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=vaibhavsatputebot)](https://github.com/vaibhavsatputebot/github-readme-stats)
 
