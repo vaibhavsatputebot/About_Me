@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=DC143C&center=true&lines=Welcome+to+My+GitHub+Profile;Exploring+the+world+of+code;Sharing+my+projects+and+learnings;Enjoy+your+stay!&width=600&height=180">
-</p>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=23&pause=1000&color=7150F7&center=true&vCenter=true&width=435&lines=Welcome+To+My+GitHub+Profile;Exploring+The+World+Of+Code;Make+Sure+You+Leave+%E2%AD%90)](https://git.io/typing-svg)
 
 <h2 align="center">
     ──「 **Unknown 𝖡𝗈𝗍𝗌 𝖯𝗋𝗈𝖿𝗂𝗅𝖾** 」──
