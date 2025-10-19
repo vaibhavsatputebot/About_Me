@@ -10,9 +10,9 @@
   <div style="flex: 1;">
 
 # Hi there! I'm 未知 👋
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=I+am+VAIBHAVSATPUTE;I+am+App+Modder;I+am+Web+Developer;I+am+Ethical+Hacker;I+am+Reverse+Engineer;I+am+UI%2FUX+Designer)](https://git.io/typing-svg)
+
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=DC143C&center=true&lines=Welcome+to+My+GitHub+Profile;Exploring+the+world+of+code;Sharing+my+projects+and+learnings;Enjoy+your+stay!&width=600&height=180">
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&center=true&lines=I+am+VAIBHAVSATPUTE;I+am+App+Modder;I+am+Web+Developer;I+am+Ethical+Hacker;I+am+Reverse+Engineer;I+am+UI%2FUX+Designer&pause=1000&width=435)](https://git.io/typing-svg)
 </p>
 
 
