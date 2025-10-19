@@ -9,14 +9,9 @@
 <div style="display: flex;">
   <div style="flex: 1;">
 
-# Hi there! 👋
+# Hi there! I'm 未知 👋
 
-        <div class="content-section">
-          <h1>Hi, I'm <span>未知</span></h1>
-        <h2><span style="color:white;">I am </span><span id="typed-text"></span><span id="cursor">|</span></h2>
-          <p><b>
-            I'm just a curious soul with a passion for technology. What started as a hobby quickly became a journey of self-taught exploration – driven by necessity, fueled by fascination. While I lack formal training, I've acquired valuable skills through persistent learning and continue to deepen my expertise daily.
-          </b></p>
+I'm just a curious soul with a passion for technology. What started as a hobby quickly became a journey of self-taught exploration – driven by necessity, fueled by fascination. While I lack formal training, I've acquired valuable skills through persistent learning and continue to deepen my expertise daily.
 
 Here's a bit more about me:
 <p align="center">
@@ -52,7 +47,7 @@ Here's a bit more about me:
 
 You can connect with me on telegram:
 
-- [![telegram](https://img.shields.io/badge/Unknown Modder-Telegram-blue?style=for-the-badge&logo=telegram)](https://t.me/vaibhavsatpute)
+- [![telegram](https://img.shields.io/badge/Modder-Telegram-blue?style=for-the-badge&logo=telegram)](https://t.me/vaibhavsatpute)
 <br>
 
 Thanks for visiting my profile! Feel free to explore my repositories, and don't forget to leave a star ⭐️ if you find something interesting!
