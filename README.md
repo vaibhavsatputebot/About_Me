@@ -15,7 +15,7 @@ I'm just a curious soul with a passion for technology. What started as a hobby q
 
 # Here's a bit more about me:
 <p align="center">
-<img src="https://i.ibb.co/BHqMgJ9h/IMG-20250919-201351-451.jpg">
+<img src="https://streamable.com/0diqgr?src=player-page-share">
 </p>
 
 <br>
